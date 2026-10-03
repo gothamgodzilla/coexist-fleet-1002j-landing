@@ -1,2 +1,2 @@
-# coexist-fleet-1002j-landing
-Catalog landing for 1002J Apple micro-utilities. StoreKit on device. Stripe web lifetime only. Not live until NACI clear.
+# 1002J catalog landing
+Static HTML. Deploy on Vercel after NACI note stays visible. Gamma credits were 0 on this run.
